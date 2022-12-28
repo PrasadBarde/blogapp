@@ -1,0 +1,30 @@
+.center{
+    margin-top: 17%;
+    align-items: center;
+    /* margin-left: 20%; */
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+button{
+    width: 130px;
+    height: 30px;
+    margin: 50px;
+    background-color: blueviolet;
+}
+.heading{
+    text-align: justify;
+    margin-left: 7%;
+}
+.description{
+    width: 80%;
+    height: 80px;
+}
+.input{
+    /* margin-left:30% ; */
+    width: 100%;
+    margin-bottom: 40px;
+}
+.inputbox{
+    margin-left: 20%;
+}
